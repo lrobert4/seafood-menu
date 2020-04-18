@@ -6,7 +6,12 @@ class Order extends React.Component {
         return (
             
             <div className="order">
-                Order!!!
+                <h2>Order</h2>
+                <ul>
+                    <li>
+                        
+                    </li>
+                </ul>
             </div>
             
 
